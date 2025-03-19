@@ -79,7 +79,12 @@ body {
 
 **DATA 2401 PROJECT**
 
-***TBA***
+***Link to the project:***
+```{=html}
+<a href="Project1.html" target="_blank">View Project</a> or 
+
+<a href="Project1.html" download="Project1.html">Download Project</a>
+```
 
 **STAT 3311 PROJECT**
 
